@@ -23,6 +23,16 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
+<h4 align="center">GitHub Stats</h4>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhguptajs&show_icons=true&theme=radical" alt="Rishabh's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhguptajs&theme=radical" alt="Rishabh's GitHub Streak">
+</p>
+
 <p align="center">
   <em>Let's connect and chat!</em>
 </p>
