@@ -25,7 +25,7 @@
 
 <h4 align="center">GitHub Stats</h4>
 
-![image](https://user-images.githubusercontent.com/48509043/236806455-e736fd01-9736-490c-b784-1318d7cfac6f.png)
+[![rishabhguptajs's GitHub | Stats](https://stats.quine.sh/rishabhguptajs/github?theme=dark)](https://quine.sh)
 
 
 <p align="center">
