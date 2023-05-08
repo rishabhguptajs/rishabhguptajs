@@ -25,13 +25,8 @@
 
 <h4 align="center">GitHub Stats</h4>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhguptajs&show_icons=true&theme=radical" alt="Rishabh's GitHub Stats">
-</p>
+![image](https://user-images.githubusercontent.com/48509043/236806455-e736fd01-9736-490c-b784-1318d7cfac6f.png)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhguptajs&theme=radical" alt="Rishabh's GitHub Streak">
-</p>
 
 <p align="center">
   <em>Let's connect and chat!</em>
