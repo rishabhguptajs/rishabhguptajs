@@ -27,6 +27,8 @@
 
 [![rishabhguptajs's GitHub | Stats](https://stats.quine.sh/rishabhguptajs/github?theme=dark)](https://quine.sh)
 
+[![rishabhguptajs's GitHub | Languages Over Time](https://stats.quine.sh/rishabhguptajs/languages-over-time?theme=dark)](https://quine.sh)
+
 
 <p align="center">
   <em>Let's connect and chat!</em>
