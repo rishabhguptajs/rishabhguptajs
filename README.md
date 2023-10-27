@@ -1,7 +1,7 @@
 <h2 align="center">Hi there! 👋</h2>
 
 <p align="center">
-  I'm Rishabh Gupta, a frontend developer currently learning React. I'm passionate about web development and building user-friendly interfaces. I'm also interested in open source projects and always looking to collaborate with other developers.
+  Hi, I'm Rishabh. I'm interested, and currently working on technologies including expressJS/nodeJS in the backend, and nextJS in the frontend. Other than that, I'm also doing DSA in Java.
 </p>
 
 <p align="center">
