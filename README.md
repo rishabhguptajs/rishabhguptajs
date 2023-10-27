@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🔭 I'm currently working on: <strong>Frontend development</strong><br>
+  🔭 I'm currently working on: <strong>Backend Development</strong><br>
   🌱 I'm currently learning: <strong>React</strong><br>
   💬 How to reach me: <strong><a href="mailto:rishabhgupta4523@gmail.com">rishabhgupta4523@gmail.com</a></strong> | <strong><a href="https://www.instagram.com/rishabhgupta.js/">Instagram</a></strong> | <strong><a href="https://twitter.com/rishabhguptajs">Twitter</a></strong>
 </p>
