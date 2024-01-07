@@ -31,5 +31,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhguptajs&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankur22CSE&" alt="ankur22cse" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhguptajs&" alt="rishabhguptajs" /></p>
 
