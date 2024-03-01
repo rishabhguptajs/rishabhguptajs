@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishabh</h1>
+<h1 align="center">Hey, Rishabh this side.</h1>
 <h3 align="center">MERN Dev, Python Dev</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhguptajs&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhguptajs" /> </p>
 
