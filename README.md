@@ -1,13 +1,13 @@
 <h1 align="center">Hey, Rishabh this side.</h1>
-<h3 align="center">MERN Dev, Python Dev</h3>
+<h3 align="center">Full Stack Developer (Backend Heavy)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhguptajs&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhguptajs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhguptajs&theme=darkhub" alt="rishabhguptajs" /></a> </p>
 
 - 🔭 I’m currently working on [antarcompany](https://github.com/rishabhguptajs/antarcompany)
 - 🤝 I’m looking for help with [imaGen - Generating images using prompts, with the help of OpenAI API](https://github.com/rishabhguptajs/imageGen)
-- 🌱 I’m currently learning **Backend Dev**
-- 💬 Ask me about **React, Python, Javascript, APIs, ExpressJS, EJS, MongoDB, Mongoose**
+- 🌱 I’m currently practicing **Backend Development using NodeJS**
+- 💬 Ask me about **React, Python, Javascript, NodeJS, APIs, ExpressJS, EJS, MongoDB, Mongoose**
 - 📫 How to reach me **rishabhgupta4523@gmail.com**
 - 👨‍💻 All of my projects are available at **rishabhguptajs.vercel.app**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1_q-WadBq_CmYqvVpm3A6mSCnvtXBztGO/view?usp=sharing**
