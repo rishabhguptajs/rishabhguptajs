@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhguptajs&theme=darkhub" alt="rishabhguptajs" /></a> </p>
 
-- 🔭 I’m currently working on [antarcompany](https://github.com/rishabhguptajs/antarcompany)
+- 🔭 I’m currently working on [evolv-backend](https://github.com/rishabhguptajs/evolv-backend)
 - 🤝 I’m looking for help with [imaGen - Generating images using prompts, with the help of OpenAI API](https://github.com/rishabhguptajs/imageGen)
 - 🌱 I’m currently practicing **Backend Development using NodeJS**
 - 💬 Ask me about **React, Python, Javascript, NodeJS, APIs, ExpressJS, EJS, MongoDB, Mongoose**
